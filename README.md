@@ -1,3 +1,2 @@
-# starter
-# description 
-https://github.com/mcna0272/starter.git/index.html
+# moon project
+2nd ex.
